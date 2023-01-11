@@ -1,6 +1,6 @@
 # <img src="wave.gif" width="30px">Hi! I'm @RuaroGiovanni
 I am a Computer Science & Engineering Student with a minor in Innovation & Entrepreneurship @ EIT Digital. 
-I currently live in Italy and studying @ Politecnico di Milano. In September I am mooving to Nice to conclude my Master of Science @ Université Cote D'Azur.
+I currently live in Nice, France and studying @ Université Côte d'Azur.
 ## :seedling: Currently Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
